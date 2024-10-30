@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Khoi0703
+# 👋 Hi
 
 ## 👀 I’m interested in 
 - Data Analysis
